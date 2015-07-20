@@ -1,0 +1,8 @@
+\\psf\home\documents\visual studio 2013\Projects\LoggingUtility\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+\\psf\home\documents\visual studio 2013\Projects\LoggingUtility\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+\\psf\home\documents\visual studio 2013\Projects\LoggingUtility\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+\\psf\home\documents\visual studio 2013\Projects\LoggingUtility\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Workspace\Standard\Standard.Common.Logger\bin\Debug\Logger.dll
+C:\Workspace\Standard\Standard.Common.Logger\bin\Debug\Logger.pdb
+C:\Workspace\Standard\Standard.Common.Logger\obj\Debug\Logger.dll
+C:\Workspace\Standard\Standard.Common.Logger\obj\Debug\Logger.pdb
